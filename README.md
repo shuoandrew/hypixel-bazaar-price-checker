@@ -31,7 +31,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://submissions.us-east-1.linodeobjects.com/web102/LZdDUp9K.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='![Kapture 2023-03-27 at 20 48 27](https://user-images.githubusercontent.com/82245268/228099233-e5bca06b-be9e-48eb-92c3-77e4239f93ad.gif)
+' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
